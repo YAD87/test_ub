@@ -1,0 +1,21 @@
+  --- Volume group ---
+  VG Name               ubuntu-vg
+  System ID             
+  Format                lvm2
+  Metadata Areas        1
+  Metadata Sequence No  7
+  VG Access             read/write
+  VG Status             resizable
+  MAX LV                0
+  Cur LV                1
+  Open LV               1
+  Max PV                0
+  Cur PV                1
+  Act PV                1
+  VG Size               3.76 GiB
+  PE Size               4.00 MiB
+  Total PE              962
+  Alloc PE / Size       697 / 2.72 GiB
+  Free  PE / Size       265 / 1.04 GiB
+  VG UUID               GmwM5H-SkwM-ypqL-mrdx-breK-NdyV-3FbvIV
+   
